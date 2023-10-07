@@ -13,5 +13,6 @@ This App is Fully Feature Rich
 🔹 Shuffle Button
 🔹Loop Button to continuously play that particular song
 and Many More...
+
 ![WhatsApp Image 2023-10-07 at 18 03 47](https://github.com/KabirTheCoder21/Songify/assets/107906706/6995879e-14f0-4285-a131-b30a3163719f)
 

@@ -16,3 +16,4 @@ and Many More...
 
 ![WhatsApp Image 2023-10-07 at 18 03 47](https://github.com/KabirTheCoder21/Songify/assets/107906706/6995879e-14f0-4285-a131-b30a3163719f)
 
+![fdfg](https://github.com/KabirTheCoder21/Songify/assets/107906706/a9857d84-0584-4f01-bcc7-1760c1814d1e)
